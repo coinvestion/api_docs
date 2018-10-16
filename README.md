@@ -2,7 +2,8 @@
 Documents will be here.
 fgkjdfhgkjdhfgjkdfgs dfg
 
-<script src="https://gist.github.com/coinvestion/d2607439c4681c08197c35facd8799b7.js"></script>
+![enter image description here](https://lh3.googleusercontent.com/UPmu36cRlbfmZ5mAnmG7Aqz7AB1eugVFWmDx8os7I1Oc3PWtQlMIMnC_XmZBD2vvzyYqKIFGWmA "Coinvestion Logo")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNTY1MDg5NywtMTMxNzg1ODgxMV19
+eyJoaXN0b3J5IjpbMTkzMDc4NjM0MiwtNTE1NjUwODk3LC0xMz
+E3ODU4ODExXX0=
 -->
